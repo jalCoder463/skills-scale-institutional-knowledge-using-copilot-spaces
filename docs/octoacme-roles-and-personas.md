@@ -75,7 +75,82 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Project Sponsor
+
+### Role Summary
+Executive-level champion who owns overall business objectives for the project.
+
+### Responsibilities
+- Approves project plans, budgets, and major deliverables
+- Provides strategic guidance and resolves high-level risks/escalations
+- Advocates for the project with other leadership stakeholders
+
+### Interactions
+- Works primarily with the Project Manager, Product Manager, and Executive Team
+
+---
+
+## Quality Assurance Lead
+
+### Role Summary
+Ensures deliverables meet quality criteria and oversees all aspects of testing.
+
+### Responsibilities
+- Define and maintain test strategies, plans, and schedules
+- Oversee manual and automated testing
+- Report on product quality metrics
+- Work closely with Developers to ensure testability
+
+### Interactions
+- Collaborates with Developers, Product Managers, and Project Managers
+
+---
+
+## Change Manager
+
+### Role Summary
+Coordinates change requests and manages communication about process or system changes.
+
+### Responsibilities
+- Collect, document, and assess change requests
+- Communicate changes and impacts to stakeholders
+- Maintain change logs and approval histories
+
+### Interactions
+- Works with QA, Project Managers, and affected stakeholders
+
+---
+
+## Communications Coordinator
+
+### Role Summary
+Manages external and internal updates, keeping stakeholders informed across the project lifecycle.
+
+### Responsibilities
+- Draft and distribute project updates, newsletters, and announcements
+- Coordinate with stakeholders to gather feedback
+- Ensure project documentation is up-to-date and accessible
+
+### Interactions
+- Interfaces with all stakeholder groups
+
+---
+
+## Subject Matter Expert (SME)
+
+### Role Summary
+Provides specialized expertise and guidance to the project team as needed.
+
+### Responsibilities
+- Advise on complex domain-specific issues and questions
+- Review deliverables for accuracy and alignment with best practices
+- Mentor team members on specialized topics
+
+### Interactions
+- Engages with Developers, QA, Product and Project Managers
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
